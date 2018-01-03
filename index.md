@@ -17,17 +17,17 @@ This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-scienc
 
 ## Taxify API
 
-This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, url, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It’s written in Markdown, uses custom CSS, and published using Atom markdown-themeable-PDF package.
+This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, url, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It’s written in Markdown and published using GitHub Pages.
 
 ## Video Search App
 
-This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. 
+This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. It's written in Markdown and published using GitHub Wiki. 
 
 I wrote this app as part of a course on React. It makes calls to the YouTube API and updates the search results as the user types. See the [code on GitHub](https://github.com/mollieswenson/react-video-search-app).
 
 ## Therapist Bot App
 
-This [code documentation](https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs) records the constants, functions, and enumerations used in the JavaScript code of this application.
+This [code documentation](https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs) records the constants, functions, and enumerations used in the JavaScript code of this application. It's written in Markdown and published as the project readme. 
 
 I wrote this app for a course on code documentation. The app is a (mildly rude) therapist who is happy to discuss your problems for hours on end. A working [demo therapy session](https://mollieswenson.github.io/therapist-bot/) and the [code](https://github.com/mollieswenson/therapist-bot) are on GitHub.
 
