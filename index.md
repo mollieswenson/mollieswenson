@@ -21,7 +21,7 @@ This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) incl
 
 ## Video Search App
 
-This PDF [React component reference](https://github.com/mollieswenson/react-video-search-app/blob/master/React%20video%20search%20app%20documentation.pdf) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions.
+This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. 
 
 I wrote this app as part of a course on React. It makes calls to the YouTube API and updates the search results as the user types. See the [code on GitHub](https://github.com/mollieswenson/react-video-search-app).
 
