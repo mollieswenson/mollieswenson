@@ -55,11 +55,11 @@ The above projects best represent my current skills and carreer direction. Howev
 * Work in deadline-driven Agile software development environments
 * Interact with various teams to obtain an in-depth understanding of products
 * Conceptualize, define, schedule, and manage documentation projects through delivery
-* Work in Markdown, HTML, CSS, JSON, XML, JavaScript, Python
+* Work in Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments 
+* Knowledge of JavaScript/ES6, Node, Express, React, Redux, MongoDB, NPM
 * Write code samples in JavaScript and Python; working knowledge of other C-family languages
-* Git operations and cURL API requests via command line/Git Bash
 * Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion/SVN
-* Open source tools;  Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, Sublime, Atom
+* Open source tools;  Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, cURL, Sublime, Atom, 
 * Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office Suite
 * Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
 
