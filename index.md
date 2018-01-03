@@ -27,7 +27,7 @@ I wrote this app as part of a course on React. It makes calls to the YouTube API
 
 ## Therapist Bot App
 
-This PDF [code documentation](https://github.com/mollieswenson/therapist-bot/blob/master/Therapist%20Bot%20Documentation.pdf) records the constants, functions, and enumerations used in the JavaScript code of this application.
+This [code documentation](https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs) records the constants, functions, and enumerations used in the JavaScript code of this application.
 
 I wrote this app for a course on code documentation. The app is a (mildly rude) therapist who is happy to discuss your problems for hours on end. A working [demo therapy session](https://mollieswenson.github.io/therapist-bot/) and the [code](https://github.com/mollieswenson/therapist-bot) are on GitHub.
 
