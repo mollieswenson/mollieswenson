@@ -46,20 +46,22 @@ The above projects best represent my current skills and carreer direction. Howev
 
 [Google Apps Instructor-Led Training](docs/google-apps-presentation.pdf): This PowerPoint presentation is intended to be presented as part of live training on the company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read durring the presentation.
 
-[ HaaS Marketing Flyer](docs/haas-marketing.pdf): Marketing HaaS and professional services to local small businesses.
+[HaaS Marketing Flyer](docs/haas-marketing.pdf): Marketing HaaS and professional services to local small businesses.
 
 [HaaS Marketing Mailer](docs/haas-mailer.pdf): Marketing HaaS, professional services, and phone systems to local small businesses.
 
 # Skills
 
-* Experience working in deadline-driven Agile software development environments and interacting with various teams to obtain an in-depth understanding of products, services, and processes in order to plan and produce high quality documentation
-* Markdown, HTML, CSS, JSON, XML, JavaScript, Python
+* Work in deadline-driven Agile software development environments
+* Interact with various teams to obtain an in-depth understanding of products
+* Conceptualize, define, schedule, and manage documentation projects through delivery
+* Work in Markdown, HTML, CSS, JSON, XML, JavaScript, Python
 * Write code samples in JavaScript and Python; working knowledge of other C-family languages
 * Git operations and cURL API requests via command line/Git Bash
-* Source control, version control and collaboration tools; Confluence, JIRA, GitHub/Git, Git Bash/Command Line, SharePoint, Subversion, TortoiseSVN
-* Open source tools;  Mkdocs, Slate, Redoc, JSdoc, Doxygen/Moxygen, OpenAPI, Swagger, Postman
-* Enterprise tools; MadCap Flare, Dreamweaver, Snagit, Camtasia, Photoshop, FrameMaker, Articulate, PowerPoint, Acrobat, MS Office, Notepad++, Sublime, Atom
-* Adhere to a style guide; establish and implement standards; familiar with Microsoft Manual of Style for Technical Publications; peer edit and proofread as needed
+* Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion/SVN
+* Open source tools;  Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, Sublime, Atom
+* Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office Suite
+* Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
 
 # Education
 
