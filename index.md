@@ -64,7 +64,7 @@ The above projects best represent my current skills and carreer direction. Howev
 * Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion/SVN
 * Open source tools;  Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, cURL, Sublime, Atom, 
 * Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office Suite
-* Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
+* Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications 
 
 # Education
 
