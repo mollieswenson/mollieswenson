@@ -11,6 +11,8 @@ This single-page html [API documentation](https://mollieswenson.github.io/slate/
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. You can make working API calls and see the the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
+![FoodTruck API docs](https://github.com/mollieswenson/foodtruck-api/blob/master/food-truck.png)
+
 ## Aperture Science SDK
 
 This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It’s written in Markdown and published using Mkdocs.
@@ -24,6 +26,10 @@ This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) incl
 This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. It's written in Markdown and published using GitHub Wiki. 
 
 I wrote this app as part of a course on React. It makes calls to the YouTube API and updates the search results as the user types. See the [code on GitHub](https://github.com/mollieswenson/react-video-search-app).
+
+![Video Search App](https://github.com/mollieswenson/react-video-search-app/blob/master/img/app.png)
+
+
 
 ## Therapist Bot App
 
