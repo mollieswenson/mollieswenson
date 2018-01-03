@@ -61,9 +61,9 @@ The above projects best represent my current skills and carreer direction. Howev
 * Work in Markdown, HTML, CSS, JSON, XML, JavaScript, Python
 * Write code samples in JavaScript and Python; working knowledge of other C-family languages
 * Git operations and cURL API requests via command line/Git Bash
-* Version control and collaboration tools; Confluence, JIRA, GitHub/Git Bash, SharePoint, Subversion/SVN
-* Open source tools;  Mkdocs, Slate, Redoc, JSdoc, Doxygen/Moxygen, OpenAPI, Swagger, Postman, Sublime, Atom
-* Enterprise tools; Flare, Dreamweaver, Snagit, Camtasia, Photoshop, FrameMaker, Articulate, MS Office Suite
+* Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion/SVN
+* Open source tools;  Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, Sublime, Atom
+* Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office Suite
 * Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
 
 # Education
