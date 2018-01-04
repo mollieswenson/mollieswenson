@@ -1,8 +1,6 @@
-# Projects
-
 Hi! Thanks for reviewing my portfolio. Below are my API, SDK, and code documentation projects. Each has a link to the related docs and any code I wrote as well.
 
-## FoodTruck API
+# FoodTruck API
 
 This single-page html [API documentation](https://mollieswenson.github.io/slate/) includes Node (JavaScript), Python, and cURL code samples for all GET, POST, PUT, and DELETE API operations, as well as info on authentication, errors, and an overview. It is written in Markdown and published using Slate.
 
@@ -10,19 +8,19 @@ I wrote the code for the FoodTruck API as part of a course on API development! I
 
 <a href="https://mollieswenson.github.io/slate/"><img src="img/food-truck.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-## Aperture Science SDK
+# Aperture Science SDK
 
 This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It’s written in Markdown and published using Mkdocs.
 
 <a href="https://mollieswenson.github.io/aperture-science-sdk"><img src="img/aperture.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-## Taxify API
+# Taxify API
 
 This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, url, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It’s written in Markdown and published using GitHub Pages.
 
 <a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="img/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-## Video Search App
+# Video Search App
 
 This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. It's written in Markdown and published using GitHub Wiki. 
 
@@ -30,7 +28,7 @@ I wrote this app as part of a course on React. It makes calls to the YouTube API
 
 <a href="https://github.com/mollieswenson/react-video-search-app/wiki"><img src="img/video.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-## Therapist Bot App
+# Therapist Bot App
 
 This [code documentation](https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs) records the constants, functions, and enumerations used in the JavaScript code of this application. It's written in Markdown and published as the project readme. 
 
@@ -38,7 +36,7 @@ I wrote this app for a course on code documentation. The app is a (mildly rude) 
 
 <a href="https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs"><img src="img/therapist.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-## More Projects
+# More Projects
 
 The above projects best represent my current skills and carreer direction. However, I have several other samples if you’d like to see more.
 
