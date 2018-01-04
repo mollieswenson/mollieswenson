@@ -14,6 +14,8 @@ I wrote the code for the FoodTruck API as part of a course on API development! I
 
 This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It’s written in Markdown and published using Mkdocs.
 
+![](img/aperture.PNG)
+
 ## Taxify API
 
 This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, url, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It’s written in Markdown and published using GitHub Pages.
