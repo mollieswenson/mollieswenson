@@ -8,6 +8,8 @@ This single-page html [API documentation](https://mollieswenson.github.io/slate/
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. You can make working API calls and see the the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
+![](img/food-truck.png)
+
 ## Aperture Science SDK
 
 This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It’s written in Markdown and published using Mkdocs.
