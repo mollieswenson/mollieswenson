@@ -8,7 +8,7 @@ This single-page html [API documentation](https://mollieswenson.github.io/slate/
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. You can make working API calls and see the the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
-[![](img/food-truck.png)](https://mollieswenson.github.io/slate/)
+<a href="https://mollieswenson.github.io/slate/"><img src="img/food-truck.png" style="box-shadow: 5px 10px"/></a>
 
 ## Aperture Science SDK
 
