@@ -8,19 +8,19 @@ This single-page html [API documentation](https://mollieswenson.github.io/slate/
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. You can make working API calls and see the the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
-<a href="https://mollieswenson.github.io/slate/"><img src="img/food-truck.png" style="box-shadow: 5px 10px"/></a>
+<a href="https://mollieswenson.github.io/slate/"><img src="img/food-truck.png" style="box-shadow: 2px 2px 2px 2px grey;"/></a>
 
 ## Aperture Science SDK
 
 This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It’s written in Markdown and published using Mkdocs.
 
-[![](img/aperture.PNG)](https://mollieswenson.github.io/aperture-science-sdk/)
+<a href="https://mollieswenson.github.io/aperture-science-sdk"><img src="img/aperture.PNG" style="box-shadow: 2px 2px 2px 2px grey;"/></a>
 
 ## Taxify API
 
 This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, url, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It’s written in Markdown and published using GitHub Pages.
 
-[![](img/taxify.PNG)](https://mollieswenson.github.io/taxify-api-docs/)
+<a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="img/taxify.PNG" style="box-shadow: 2px 2px 2px 2px grey;"/></a>
 
 ## Video Search App
 
@@ -28,7 +28,7 @@ This [React component wiki](https://github.com/mollieswenson/react-video-search-
 
 I wrote this app as part of a course on React. It makes calls to the YouTube API and updates the search results as the user types. See the [code on GitHub](https://github.com/mollieswenson/react-video-search-app).
 
-[![](img/video.PNG)](https://github.com/mollieswenson/react-video-search-app/wiki)
+<a href="https://github.com/mollieswenson/react-video-search-app/wiki"><img src="img/video.PNG" style="box-shadow: 2px 2px 2px 2px grey;"/></a>
 
 ## Therapist Bot App
 
@@ -36,7 +36,7 @@ This [code documentation](https://github.com/mollieswenson/therapist-bot/#therap
 
 I wrote this app for a course on code documentation. The app is a (mildly rude) therapist who is happy to discuss your problems for hours on end. A working [demo therapy session](https://mollieswenson.github.io/therapist-bot/) and the [code](https://github.com/mollieswenson/therapist-bot) are on GitHub.
 
-[![](img/therapist.PNG)](https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs)
+<a href="https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs"><img src="img/therapist.PNG" style="box-shadow: 2px 2px 2px 2px grey;"/></a>
 
 ## More Projects
 
