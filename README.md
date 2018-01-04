@@ -1,4 +1,4 @@
-Hi! Thanks for reviewing my portfolio. Below are my API, SDK, and code documentation projects. Each has a link to the related docs and any code I wrote as well.
+Hi! Thanks for reviewing my portfolio. Below are my API, SDK, and code documentation projects.
 
 # FoodTruck API
 
