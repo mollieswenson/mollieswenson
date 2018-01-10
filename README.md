@@ -40,7 +40,7 @@ I wrote this app for a course on code documentation. The app is a (mildly rude) 
 
 The above projects best represent my current skills and carreer direction. However, I have several other samples if you’d like to see more.
 
-[DnD Sound Board App](http://recrs.org): I wrote this JavaScript App so that my DnD group could have a cool soundboard when we get together. It uses JavaScript, jQuery, HTML, and CSS. The [source](https://github.com/mollieswenson/soundboard) is on GitHub.
+[Sound Board App](https://mollieswenson.github.io/soundboard/): I wrote this JavaScript App so that my DnD group could have a cool soundboard when we get together. It uses JavaScript, jQuery, HTML, and CSS. The [source](https://github.com/mollieswenson/soundboard) is on GitHub.
 
 [Tutorial Video for Minecraft Residence Plugin](https://www.youtube.com/watch?v=u6EY6Xi0fcM&index=4&list=PL750FA9D10C3FE159): I  had a Mincraft server and YouTube channel where I posted videos about it. This one describes how to use commands for a plugin available on the server. The audience is a bunch of fairly young gamers who are already familair with typing commands with parameters.
 
