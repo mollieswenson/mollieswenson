@@ -6,31 +6,32 @@ This single-page html [API documentation](https://mollieswenson.github.io/slate/
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. See the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
-[![](resources/food-truck.png)](https://mollieswenson.github.io/slate/)
+<a href="https://mollieswenson.github.io/slate/"><img src="resources/food-truck.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # Aperture Science SDK
 
 This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It's written in Markdown and published using Mkdocs.
 
-[![](resources/aperture.PNG)](https://mollieswenson.github.io/aperture-science-sdk)
+<a href="https://mollieswenson.github.io/aperture-science-sdk"><img src="resources/aperture.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+
 
 # Google Apps eLearning
 
 This [eLearning course](resources/google-apps-elearning.pdf) was created using Articulate Studio. It's purpose was to prepare about 12,000 employees for a company-wide transition of several communication and collaboration tools.
 
-[![](resources/google-apps-cbt.PNG)](resources/google-apps-elearning.pdf)
+<a href="resources/google-apps-elearning.pdf"><img src="resources/google-apps-cbt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # Google Apps Instructor-Led Training
 
 This [live-training presentation](resources/google-apps-presentation.pdf) was presented as part of live company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read during the presentation.
 
-[![](resources/google-apps-ilt.PNG)](resources/google-apps-elearning.pdf)
+<a href="resources/google-apps-elearning.pdf"><img src="resources/google-apps-ilt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # Taxify API
 
 This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, URL, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It's written in Markdown and published using GitHub Pages.
 
-[![](resources/taxify.PNG)](https://mollieswenson.github.io/taxify-api-docs/)
+<a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # Video Search App
 
@@ -38,7 +39,7 @@ This [React component wiki](https://github.com/mollieswenson/react-video-search-
 
 I wrote this app as part of a course on React. It makes calls to the YouTube API and updates the search results as the user types. See the [code on GitHub](https://github.com/mollieswenson/react-video-search-app).
 
-[![](resources/video.PNG)](https://github.com/mollieswenson/react-video-search-app/wiki)
+<a href="https://github.com/mollieswenson/react-video-search-app/wiki"><img src="resources/video.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # Therapist Bot App
 
@@ -46,7 +47,7 @@ This [code documentation](https://github.com/mollieswenson/therapist-bot/#therap
 
 I wrote this app for a course on code documentation. The app is a (mildly rude) therapist who is happy to discuss your problems for hours on end. A working [demo therapy session](https://mollieswenson.github.io/therapist-bot/) and the [code](https://github.com/mollieswenson/therapist-bot) are on GitHub.
 
-[![](resources/therapist.PNG)](https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs)
+<a href="https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs"><img src="resources/therapist.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # More Projects
 
