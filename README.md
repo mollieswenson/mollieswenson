@@ -25,7 +25,7 @@ This [eLearning course](resources/google-apps-elearning.pdf) was created using A
 
 This [live-training presentation](resources/google-apps-presentation.pdf) was presented as part of live company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read during the presentation.
 
-<a href="resources/google-apps-elearning.pdf"><img src="resources/google-apps-ilt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+<a href="resources/google-apps-presentation.pdf"><img src="resources/google-apps-ilt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # Taxify API
 
