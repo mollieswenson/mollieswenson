@@ -27,12 +27,6 @@ This [live-training presentation](resources/google-apps-presentation.pdf) was pr
 
 <a href="resources/google-apps-presentation.pdf"><img src="resources/google-apps-ilt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-# Taxify API
-
-This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, URL, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It's written in Markdown and published using GitHub Pages.
-
-<a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
-
 # Video Search App
 
 This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. It's written in Markdown and published using GitHub Wiki.
@@ -48,6 +42,12 @@ This [code documentation](https://github.com/mollieswenson/therapist-bot/#therap
 I wrote this app for a course on code documentation. The app is a (mildly rude) therapist who is happy to discuss your problems for hours on end. A working [demo therapy session](https://mollieswenson.github.io/therapist-bot/) and the [code](https://github.com/mollieswenson/therapist-bot) are on GitHub.
 
 <a href="https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs"><img src="resources/therapist.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
+
+# Taxify API
+
+This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, URL, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It's written in Markdown and published using GitHub Pages.
+
+<a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
 # More Projects
 
