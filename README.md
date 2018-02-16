@@ -2,7 +2,7 @@ Hi! Thanks for reviewing my portfolio. Below are my documentation and instructio
 
 # FoodTruck API
 
-This single-page html [API documentation](https://mollieswenson.github.io/slate/) includes Node (JavaScript), Python, and cURL code samples for all GET, POST, PUT, and DELETE API operations, as well as info on authentication, errors, and an overview. It is written in Markdown and published using Slate.
+This single-page html [API documentation](https://mollieswenson.github.io/slate/) includes Node (JavaScript), Python, and cURL code samples for all GET, POST, PUT, and DELETE API operations, as well as information on authentication, errors, and an overview. It is written in Markdown and published using Slate.
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. See the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
@@ -10,7 +10,7 @@ I wrote the code for the FoodTruck API as part of a course on API development! I
 
 # Aperture Science SDK
 
-This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) includes an overview, getting started, tutorials, sample applications, and an API reference. It's written in Markdown and published using Mkdocs.
+This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) teaches SDK users how to create, build, and securely deploy firmware to an embedded gateway device. It includes overview, getting started, tutorials, and line-by-line descriptions of the C-language code in the sample applications. It's written in Markdown and published using Mkdocs.
 
 <a href="https://mollieswenson.github.io/aperture-science-sdk"><img src="resources/aperture.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
@@ -36,23 +36,15 @@ This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) incl
 
 <a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-# Google Apps eLearning
-
-This [eLearning course](resources/google-apps-elearning.pdf) was created using Articulate Studio. It's purpose was to prepare about 12,000 employees for a company-wide transition of several communication and collaboration tools.
-
-<a href="resources/google-apps-elearning.pdf"><img src="resources/google-apps-cbt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
-
-# Google Apps Instructor-Led Training
-
-This [live-training presentation](resources/google-apps-presentation.pdf) was presented as part of live company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read during the presentation.
-
-<a href="resources/google-apps-presentation.pdf"><img src="resources/google-apps-ilt.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
-
 # More Projects
 
 The above projects best represent my current skills and career direction. However, I have several other samples if you'd like to see more.
 
 [Sound Board App](https://mollieswenson.github.io/soundboard/): I wrote this JavaScript App so that my D&D group could have a cool soundboard when we get together. It uses JavaScript, jQuery, HTML, and CSS. The [source](https://github.com/mollieswenson/soundboard) is on GitHub.
+
+[Google Apps eLearning](resources/google-apps-elearning.pdf): This eLearning course was created using Articulate Studio. It's purpose was to prepare about 15,000 employees for a company-wide transition of several communication and collaboration tools.
+
+[Google Apps Instructor-Led Training](resources/google-apps-presentation.pdf): This live-training presentation was presented as part of live company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read during the presentation.
 
 [Tutorial Video for Minecraft Residence Plugin](https://www.youtube.com/watch?v=u6EY6Xi0fcM&index=4&list=PL750FA9D10C3FE159): I had a Minecraft server and YouTube channel where I posted videos about it. This one describes how to use commands for a plugin available on the server. The audience is a bunch of fairly young gamers who are already familiar with typing commands with parameters.
 
