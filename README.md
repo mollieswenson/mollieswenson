@@ -8,12 +8,6 @@ I wrote the code for the FoodTruck API as part of a course on API development! I
 
 <a href="https://mollieswenson.github.io/slate/"><img src="resources/food-truck.png" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-# Aperture Science SDK
-
-This multi-page html [SDK guide](https://mollieswenson.github.io/aperture-science-sdk/) teaches SDK users how to create, build, and securely deploy firmware to an embedded gateway device. It includes overview, getting started, tutorials, and line-by-line descriptions of the C-language code in the sample applications. It's written in Markdown and published using Mkdocs.
-
-<a href="https://mollieswenson.github.io/aperture-science-sdk"><img src="resources/aperture.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
-
 # Video Search App
 
 This [React component wiki](https://github.com/mollieswenson/react-video-search-app/wiki) documents the React components used in a video search app, including property name, type, description, initial state, and state change functions. It's written in Markdown and published using GitHub Wiki.
