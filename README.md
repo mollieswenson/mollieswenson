@@ -1,4 +1,4 @@
-Hi! Thanks for reviewing my portfolio. Below are my documentation and instructional design projects.
+Hi! Thanks for reviewing my portfolio. Below are my techical documentation projects.
 
 # FoodTruck API
 
