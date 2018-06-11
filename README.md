@@ -67,7 +67,7 @@ The above projects best represent my current skills and career direction. Howeve
 - Develop and continually improve training content using ADDIE model
 - Work in Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments
 - Knowledge of JavaScript/ES6, Node, Express, React, Redux, MongoDB, NPM
-- Write code samples in JavaScript and Python; working knowledge of other C-family languages
+- Read and write code samples in C, JavaScript, Python, and other C-family languages
 - Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion
 - Open tools; Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, cURL, Sublime, Atom
 - Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office
