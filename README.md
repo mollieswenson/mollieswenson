@@ -1,6 +1,6 @@
 Hi! Thanks for reviewing my portfolio. Below are my techical documentation projects.
 
-# xPico200 Series SDK Guide
+# xPico200 SDK
 
 This multi-page html [SDK guide](https://docs.lantronix.com/products/xpico-200/sdk/1.7/) teaches SDK users how to create, build, and  deploy firmware to an embedded gateway device. Here's what the SDK includes:
 
