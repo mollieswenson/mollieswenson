@@ -13,7 +13,7 @@ This [SDK guide](https://docs.lantronix.com/products/xpico-200/sdk/1.7/) teaches
 
 # FoodTruck API
 
-This single-page html [API documentation](https://mollieswenson.github.io/slate/) includes Node (JavaScript), Python, and cURL code samples for all GET, POST, PUT, and DELETE API operations, as well as information on authentication, errors, and an overview. It is written in Markdown and published using Slate.
+This [API documentation](https://mollieswenson.github.io/slate/) includes Node (JavaScript), Python, and cURL code samples for all GET, POST, PUT, and DELETE API operations, as well as information on authentication, errors, and an overview. It is written in Markdown and published using Slate.
 
 I wrote the code for the FoodTruck API as part of a course on API development! It uses Node with Express and MongoDB. See the [code on GitHub](https://github.com/mollieswenson/foodtruck-api).
 
@@ -37,7 +37,7 @@ I wrote this app for a course on code documentation. The app is a (mildly rude) 
 
 # Taxify API
 
-This html [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, URL, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It's written in Markdown and published using GitHub Pages.
+This [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, URL, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It's written in Markdown and published using GitHub Pages.
 
 <a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
