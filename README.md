@@ -51,17 +51,17 @@ I wrote this [soundboard app](https://mollieswenson.github.io/soundboard/) so th
 
 The above projects best represent my current skills and career direction. However, I have several other samples if you'd like to see more.
 
+[Tutorial Video for Minecraft Residence Plugin](https://www.youtube.com/watch?v=u6EY6Xi0fcM&index=4&list=PL750FA9D10C3FE159): I had a Minecraft server and YouTube channel where I posted videos about it. This one describes how to use commands for a plugin available on the server. The audience is a bunch of fairly young gamers who are already familiar with typing commands with parameters.
+
+[Account Access Quick Start Guide](resources/okta-quick-start.pdf): This quick start guide walks employees through the process of using OKTA (single sign-on tool) to access their account. This guide was used by all employees during a company-wide transition and assumed some users were not very technical.
+
 [Google Apps eLearning](resources/google-apps-elearning.pdf): This eLearning course was created using Articulate Studio. It's purpose was to prepare about 15,000 employees for a company-wide transition of several communication and collaboration tools.
 
 [Google Apps Instructor-Led Training](resources/google-apps-presentation.pdf): This live-training presentation was presented as part of live company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read during the presentation.
 
-[Tutorial Video for Minecraft Residence Plugin](https://www.youtube.com/watch?v=u6EY6Xi0fcM&index=4&list=PL750FA9D10C3FE159): I had a Minecraft server and YouTube channel where I posted videos about it. This one describes how to use commands for a plugin available on the server. The audience is a bunch of fairly young gamers who are already familiar with typing commands with parameters.
-
 [TaxCaddy CPA User Guide](resources/taxcaddy-user-guide.pdf): This PDF user guide teaches CPAs how to use a new product (TaxCaddy) that integrates with a product they already have (FileRoom SPbinder). It assumes the audience is non-technical and includes a lot of screenshots to help orient users.
 
 [TaxCaddy Taxpayer Help Center](https://helpcenter.taxcaddy.com/hc/en-us): This help center website was created using ZenDesk. Audience analysis revealed that the average TaxCaddy user is 45+ and not very computer-savvy, so the help center includes simple, clear instructions and plenty of screenshots. I wrote all the articles on the help center through June 2017.
-
-[Account Access Quick Start Guide](resources/okta-quick-start.pdf): This quick start guide walks employees through the process of using OKTA (single sign-on tool) to access their account. This guide was used by all employees during a company-wide transition and assumed some users were not very technical.
 
 # Skills
 
