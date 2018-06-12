@@ -64,12 +64,11 @@ The above projects best represent my current skills and career direction. Howeve
 - Work in deadline-driven Agile software development environments
 - Interact with various teams to obtain an in-depth understanding of products and processes
 - Conceptualize, define, schedule, and manage projects through delivery
-- Develop and continually improve training content using ADDIE model
 - Work in Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments
 - Knowledge of JavaScript/ES6, Node, Express, React, Redux, MongoDB, NPM
 - Read and write code samples in C, JavaScript, Python, and other C-family languages
 - Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion
-- Open tools; Mkdocs, Slate, Redoc, JSdoc, OpenAPI, Swagger, Postman, cURL, Sublime, Atom
+- Open tools; Doxygen, Swagger, OpenAPI, Postman, cURL, Mkdocs, Slate, Redoc, JSdoc, Sublime, Atom
 - Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office
 - Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
 
