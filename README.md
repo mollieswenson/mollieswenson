@@ -41,7 +41,7 @@ This [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes 
 
 <a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-# recrs Soundboard App
+# Soundboard App
 
 I wrote this [soundboard app](https://mollieswenson.github.io/soundboard/) so that my D&D group could have a cool soundboard when we get together. It uses JavaScript, jQuery, HTML, and CSS. The [source](https://github.com/mollieswenson/soundboard) is on GitHub. 
 
