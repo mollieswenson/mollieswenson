@@ -35,12 +35,6 @@ I wrote this app for a course on code documentation. The app is a (mildly rude) 
 
 <a href="https://github.com/mollieswenson/therapist-bot/#therapist-bot-code-docs"><img src="resources/therapist.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
 
-# Taxify API
-
-This [API reference](https://mollieswenson.github.io/taxify-api-docs/) includes a name, description method, URL, parameters (with parameter name, type, required, and description), sample cURL request, and sample JSON response for each Taxify API endpoint. It's written in Markdown and published using GitHub Pages.
-
-<a href="https://mollieswenson.github.io/taxify-api-docs/"><img src="resources/taxify.PNG" style="box-shadow: 1px 1px 1px 1px grey;"/></a>
-
 # Soundboard App
 
 I wrote this [soundboard app](https://mollieswenson.github.io/soundboard/) so that my D&D group could have a cool soundboard when we get together. It uses JavaScript, jQuery, HTML, and CSS. The [source](https://github.com/mollieswenson/soundboard) is on GitHub. 
