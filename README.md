@@ -53,10 +53,6 @@ The above projects best represent my current skills and career direction. Howeve
 
 [Google Apps Instructor-Led Training](resources/google-apps-presentation.pdf): This live-training presentation was presented as part of live company-wide transition of several communication and collaboration tools. The PDF includes notes for the instructor to read during the presentation.
 
-[TaxCaddy CPA User Guide](resources/taxcaddy-user-guide.pdf): This PDF user guide teaches CPAs how to use a new product (TaxCaddy) that integrates with a product they already have (FileRoom SPbinder). It assumes the audience is non-technical and includes a lot of screenshots to help orient users.
-
-[TaxCaddy Taxpayer Help Center](https://helpcenter.taxcaddy.com/hc/en-us): This help center website was created using ZenDesk. Audience analysis revealed that the average TaxCaddy user is 45+ and not very computer-savvy, so the help center includes simple, clear instructions and plenty of screenshots. I wrote all the articles on the help center through June 2017.
-
 # Skills
 
 - Work in deadline-driven Agile software development environments
