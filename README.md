@@ -63,7 +63,7 @@ The above projects best represent my current skills and career direction. Howeve
 - Work with large teams (100+) contributing to version-controlled codebases with automated testing and deployment (Git/GitHub, Perforce, Subversion, Jenkins, Kubernetes)
 - Success in deadline-driven Agile software development environments, collaborating with product managers, producers, engineers, and designers (JIRA, Confluence, Figma, Miro, Slack, Visual Studio, VS Code)
 - Build rapport with engineering, production, design, and other teams to obtain an in-depth understanding of products/processes through user research and subject matter expert (SME) interviews
-- Design, implement, and manage complex, evolving documentation projects throughout the software development life cycle (SDKs, APIs, CLIs)
+- Design, implement, and manage complex, evolving documentation projects throughout the software development life cycle (SDKs, APIs, CLIs, localization)
 - Working within various formats and authoring environments (Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments)
 - Producing documentation consistent with existing copy and patterns; Adhere to style guides, Microsoft Manual of Style for Technical Publications
 - Experience with many open source tools; Doxygen, Swagger, OpenAPI, Postman, cURL, Mkdocs, Slate, Redoc, JSdoc, Sublime, Atom, ImGui, others
