@@ -1,5 +1,9 @@
 Hi! Thanks for reviewing my portfolio. Below are my techical documentation projects.
 
+# Proprietary Game Engine
+
+I created extensive documentation about the architecture, usage, and APIs for a proprietary game engine developed by a AAA video game studio. I was the sole writer  for an audience of ~200 game developers, including server, game systems, graphics, and other engineering teams, as well as technical designers and content creators. I received professional recognition for my contributions to the project, and later also worked as a software engineer on the same game engine. Due to NDA, I am unable to share this documentation, but am happy to discuss it further upon request.
+
 # xPico200 SDK
 
 This [SDK guide](https://docs.lantronix.com/products/xpico-200/sdk/1.7/) teaches SDK users how to create, build, and  deploy firmware to an embedded gateway device. Here's what's included:
@@ -55,16 +59,14 @@ The above projects best represent my current skills and career direction. Howeve
 
 # Skills
 
-- Work in deadline-driven Agile software development environments
-- Interact with various teams to obtain an in-depth understanding of products and processes
-- Conceptualize, define, schedule, and manage projects through delivery
-- Work in Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments
-- Knowledge of JavaScript/ES6, Node, Express, React, Redux, MongoDB, NPM
-- Read and write code samples in C, JavaScript, Python, and other C-family languages
-- Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion
-- Open tools; Doxygen, Swagger, OpenAPI, Postman, cURL, Mkdocs, Slate, Redoc, JSdoc, Sublime, Atom
-- Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office
-- Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
+- Software engineer level proficiency in C++, and ability to read and write code in C, JavaScript, Python, and other C-family languages
+- Work with large teams (100+) contributing to version-controlled codebases with automated testing and deployment (Git/GitHub, Perforce, Subversion, Jenkins, Kubernetes)
+- Success in deadline-driven Agile software development environments, collaborating with product managers, producers, engineers, and designers (JIRA, Confluence, Figma, Miro, Slack, Visual Studio, VS Code)
+- Build rapport with engineering, production, design, and other teams to obtain an in-depth understanding of products/processes through user research and subject matter expert (SME) interviews
+- Design, implement, and manage complex, evolving documentation projects throughout the software development life cycle (SDKs, APIs, CLIs)
+- Working within various formats and authoring environments (Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments)
+- Producing documentation consistent with existing copy and patterns; Adhere to style guides, Microsoft Manual of Style for Technical Publications
+- Experience with many open source tools; Doxygen, Swagger, OpenAPI, Postman, cURL, Mkdocs, Slate, Redoc, JSdoc, Sublime, Atom, ImGui, others
 
 # Education
 
@@ -83,5 +85,6 @@ The above projects best represent my current skills and career direction. Howeve
 - Learn API Technical Writing: JSON and XML for writers
 - Learn API Technical Writing: REST for Writers
 - Coding for Writers: Basic Programming (JavaScript)
+- Beginner API devlopment in Node, Express, ES6, and MongoDB
 
 **Bachelor of Arts in English @ San Francisco State University**
