@@ -2,7 +2,7 @@ Hi! Thanks for reviewing my portfolio. Below are my techical documentation proje
 
 # Proprietary Game Engine
 
-I created extensive documentation about the architecture, usage, and APIs for a proprietary game engine developed by a AAA video game studio. I was the sole writer  for an audience of ~200 game developers, including server, game systems, graphics, and other engineering teams, as well as technical designers and content creators. I received professional recognition for my contributions to the project, and later also worked as a software engineer on the same game engine. Due to NDA, I am unable to share this documentation, but am happy to discuss it further upon request.
+I created extensive documentation about the architecture, usage, and APIs for a proprietary game engine developed by a AAA video game studio. I was the sole writer  for an audience of ~300 game developers, including server, game systems, graphics, and other engineering teams, as well as technical designers and content creators. I received professional recognition for my contributions to the project, and later also worked as a software engineer on the same game engine. Due to NDA, I am unable to share this documentation, but am happy to discuss it further upon request.
 
 # xPico200 SDK
 
